@@ -12,7 +12,7 @@
     <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
     <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
 </head>
-<body style="background-image:url('img/payment3.jpeg');background-repeat:no-repeat;background-size:100%;">
+<body style="background-image:url('img/signup.jpeg');background-repeat:no-repeat;background-size:100%;">
 <%-- <%@include file="components/navbar.jsp"%> --%>
 <div class="container">
 
